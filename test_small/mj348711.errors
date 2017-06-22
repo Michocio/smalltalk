@@ -1,0 +1,24 @@
+11:59:26, 22 czerwca 2017: Unhandled exception - a RaisedSignal('assertion failure')
+
+Signal>>signal
+Object>>assert:
+[] in UndefinedObject>>{unbound}doIt
+Fitter>>match:
+Fitter>>loop:
+Fitter>>match:
+Prolog>>go:do:
+UndefinedObject>>{unbound}doIt
+CompiledExpression>>value:
+SmalltalkWorkspace>>evaluateRange:ifFail:debug:
+SmalltalkWorkspace>>evaluateRange:ifFail:
+SmalltalkWorkspace>>displayIt
+Symbol>>forwardTo:
+CommandDescription>>performAgainst:
+[] in Command>>value
+BlockClosure>>ifCurtailed:
+BlockClosure>>ensure:
+Command>>value
+ShellView>>performCommand:
+SmalltalkWorkspaceDocument(Shell)>>performCommand:
+----------------------------------------------------------------------------------------------------
+
